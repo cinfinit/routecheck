@@ -1,4 +1,4 @@
-# 🛠️ RouteCheck CLI - Because Links Deserve to Be Valid!
+# 🛠️ RouteCheck CLI - Because Links Deserve to Be Valid! [![NPM version](https://img.shields.io/npm/v/routecheck.svg?style=flat)](https://www.npmjs.com/package/routecheck) [![NPM downloads](https://img.shields.io/npm/dm/routecheck.svg?style=flat)](https://npmjs.org/package/routecheck) 
 
 Are your links alive, or are they already dead?
 
