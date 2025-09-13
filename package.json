@@ -1,47 +1,45 @@
 {
   "name": "routecheck",
-  "version": "1.0.0",
-  
+  "version": "1.0.1",
   "description": "A simple CLI tool to check the status of links (HTTP status codes) for files and individual URLs.",
   "main": "index.js",
   "bin": {
-    "routecheck": "./index.js"  
+    "routecheck": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-
   "keywords": [
-  "link-checker",
-  "cli",
-  "http-status",
-  "url-checker",
-  "broken-links",
-  "dead-links",
-  "http-codes",
-  "404-checker",
-  "link-validation",
-  "url-validation",
-  "website-monitoring",
-  "seo-tools",
-  "http-requests",
-  "status-code-checker",
-  "broken-link-checker",
-  "404-finder",
-  "dead-url-checker",
-  "web-scraper",
-  "url-status",
-  "command-line-tool",
-  "url-health-check"
-],
+    "link-checker",
+    "cli",
+    "http-status",
+    "url-checker",
+    "broken-links",
+    "dead-links",
+    "http-codes",
+    "404-checker",
+    "link-validation",
+    "url-validation",
+    "website-monitoring",
+    "seo-tools",
+    "http-requests",
+    "status-code-checker",
+    "broken-link-checker",
+    "404-finder",
+    "dead-url-checker",
+    "web-scraper",
+    "url-status",
+    "command-line-tool",
+    "url-health-check"
+  ],
   "bugs": {
-  "url": "https://github.com/cinfinit/routecheck/issues"
-},
-"homepage": "https://github.com/cinfinit/routecheck#readme",
-"repository": {
-  "type": "git",
-  "url": "git+https://github.com/cinfinit/routecheck.git"
-},
+    "url": "https://github.com/cinfinit/routecheck/issues"
+  },
+  "homepage": "https://github.com/cinfinit/routecheck#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cinfinit/routecheck.git"
+  },
   "author": "cinfinit",
   "license": "ISC",
   "dependencies": {
